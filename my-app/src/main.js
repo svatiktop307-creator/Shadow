@@ -1,6 +1,6 @@
 import { createApp } from 'vue';
 
-import Framework7 from 'framework7/lite-bundle';
+import Framework7 from 'framework7/lite/bundle';
 import Framework7Vue, {
     registerComponents,
 } from 'framework7-vue/bundle';
