@@ -9,8 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "framework7": "^9.3.0",
-    "framework7-vue": "^9.3.0",
+    "framework7": "^8.3.4",
+    "framework7-vue": "^8.3.4",
     "vue": "^3.5.22"
   },
   "devDependencies": {
