@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@vue/devtools-api": "^8.2.1",
+    "pinia": "^4.1.0"
+  }
+}
